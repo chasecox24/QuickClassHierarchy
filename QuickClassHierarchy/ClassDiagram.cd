@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Weapon" Collapsed="true">
-    <Position X="7" Y="1.5" Width="1.5" />
+    <Position X="6.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAACAAAAAAAgAACAAAAAAAAAAIAAAgAAAAAAAAAAAA=</HashCode>
       <FileName>Character.h</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Armor" Collapsed="true">
-    <Position X="11.5" Y="1.5" Width="1.5" />
+    <Position X="12" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAIAAAAACAAAAAAAACAAAAAAEAAAAAAAAAI=</HashCode>
       <FileName>Character.h</FileName>
@@ -22,7 +22,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Enemy" Collapsed="true">
-    <Position X="9.25" Y="2.75" Width="1.5" />
+    <Position X="9.25" Y="3.75" Width="1.5" />
     <InheritanceLine Type="Character">
       <InheritanceModifierLabel ManuallyPlaced="true" ManuallySized="true">
         <Position X="0.11" Y="0.06" Height="0.182" Width="0.553" />
